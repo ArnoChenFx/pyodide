@@ -1,0 +1,9 @@
+package:
+  name: pyglm
+  version: 2.7.3
+  top-level:
+    - pyglm
+
+source:
+  url: https://github.com/Zuzu-Typ/PyGLM/archive/refs/tags/2.7.3.zip
+  sha256: e7f680a5141392e1ce5c911b9844e89969277baf3888508340845cd198094cf8

@@ -1,0 +1,10 @@
+package:
+  name: python-louvain
+
+  version: 0.16.0
+  top-level:
+    - python-louvain
+
+source:
+  url: https://files.pythonhosted.org/packages/7c/0d/8787b021d52eb8764c0bb18ab95f720cf554902044c6a5cb1865daf45763/python-louvain-0.16.tar.gz
+  sha256: b7ba2df5002fd28d3ee789a49532baad11fe648e4f2117cf0798e7520a1da56b
